@@ -31,3 +31,6 @@ https://www.indiawaterportal.org/articles/district-wise-monthly-rainfall-data-li
 2. Normalization
 
 3. One Hot Encoding
+
+
+Video demonstration link: https://drive.google.com/file/d/1b43_UJkyngViaYGzK1-NArB4X5sykNdN/view?usp=sharing
